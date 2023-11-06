@@ -1,0 +1,17 @@
+{
+  "name": "my-youtube-dl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mateo G.",
+  "license": "ISC",
+  "dependencies": {
+    "music-metadata": "^7.13.5",
+    "ytdl-core": "^4.11.5",
+    "ytpl": "^2.3.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3"
+  }
+}
