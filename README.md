@@ -5,7 +5,7 @@ How to Use
 
 1. Clone the Repository
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/BlasterWhite/yt-playlist-dl.git
     ```
 2. Install Dependencies
     ```
